@@ -5,6 +5,6 @@ The commands to be given as follows:
 1) Sepia filter, user should say 'apply filter' through the microphone.
 2) To create Reflection, user should speak 'reflection' through the microphone.
 
-The program is created using Python v3.6. and utilizes google recogniser for speech recognition.
+The program is created using Python v3.6. and utilizes google speech API for speech recognition.
 
 In order to use a different image, replace the image in the 'images' folder and change the value of 'pic' variable.
