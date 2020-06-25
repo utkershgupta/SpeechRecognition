@@ -61,9 +61,7 @@ def voice_command():
 
 def main():
     """
-    This program tests your highlight_fires function by displaying
-    the original image of a fire as well as the resulting image
-    from your highlight_fires function.
+    This part makes use of the speech recognition output
     """
 
 
