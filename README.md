@@ -7,4 +7,4 @@ The commands to be given as follows:
 
 The program is created using Python v3.6. and utilizes google recogniser for speech recognition.
 
-In order to use a different image replace the image in the 'image' folder and change the value of 'pic' variable.
+In order to use a different image, replace the image in the 'images' folder and change the value of 'pic' variable.
