@@ -6,4 +6,5 @@ The commands to be given as follows:
 2) To create Reflection, user should speak 'reflection' through the microphone.
 
 The program is created using Python v3.6. and utilizes google recogniser for speech recognition.
-In order to use a different image as provided, the values for variable 'pic' should be changed.
+
+In order to use a different image replace the image in the 'image' folder and change the value of 'pic' variable.
